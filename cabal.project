@@ -1,1 +1,6 @@
-packages: ../generic-data .
+packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/Lysxia/generic-data.git
+    tag: 206bf97435f25ef099d22f29855a40afd6ca9904
